@@ -5,6 +5,8 @@
     // Sergio
     // Ana Emília Queiroz
 
+// teste aqui
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
